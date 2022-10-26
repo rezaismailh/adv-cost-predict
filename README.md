@@ -1,3 +1,4 @@
-# adv-cost-predict
+# Advertising Cost Prediction
 
-PREDICT COST ON MEDIA CAMPAIGNS IN FOOD MART OF USA ON THE BASIS OF 60K CUSTOMERS INCOME ,PRODUCT,PROMOTION AND STORE FEATURES
+Predict cost on media campaigns in food mart of USA on the basis of 60k customers income, product, promotion and store features.
+
